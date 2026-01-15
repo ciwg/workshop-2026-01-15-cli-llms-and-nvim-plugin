@@ -20,12 +20,11 @@ class: center, middle
 ## Slide 2: Demo - Neovim Plugin
 
 **Live Demo:**
-- Browser window on left
-- Neovim on right
+- Browser window 
+- Neovim 
 - Both editing same document
 - Show cursor positions
 - Type in both, watch sync
-- Disconnect/reconnect to show offline handling
 
 ---
 
@@ -179,16 +178,6 @@ Reference: https://github.com/computerscienceiscool/notes/blob/main/nv-diff-work
 
 I prefer Automerge because it preserves historical state and intent, whereas Yjs aggressively deletes data, making it unsuitable for systems that require durable, inspectable state.
 
----
-
-## Slide 18: Discussion - CRDTs in Practice
-
-**Points to discuss:**
-- Tradeoffs: performance vs features
-- When to use which CRDT
-- Real-world experiences with Automerge
-- Challenges and solutions
-- Future of real-time collaboration
 
 Reference: https://github.com/computerscienceiscool/collab-editor-notes/blob/main/multi-platform-editor.md
 
