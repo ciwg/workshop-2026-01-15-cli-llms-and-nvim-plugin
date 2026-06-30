@@ -1,6 +1,6 @@
 class: center, middle
 
-# Real-time Collaborative Editing with Neovim
+# Real-time Collaborative Editing and CLI LLM Workflows 
 
 **JJ Salley**
 
@@ -8,7 +8,7 @@ class: center, middle
 
 ## Slide 1: Introduction - Neovim Plugin for Collab-Editor
 
-**Real-time Collaborative Editing with Neovim**
+**Real-time Collaborative Editing with Neovim and Claude**
 
 - Built a Neovim plugin for my collab-editor project
 - Connects Neovim to WebSocket server using Automerge CRDT
